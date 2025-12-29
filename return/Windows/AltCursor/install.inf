@@ -1,0 +1,63 @@
+; < AltCursor installer >
+
+[Version]
+signature="$CHICAGO$"
+The minimalistic cursor.
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%handwriting%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%vert%,%10%\%CUR_DIR%\%horz%,%10%\%CUR_DIR%\%dgn1%,%10%\%CUR_DIR%\%dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+[Scheme.Cur]
+"def.cur"
+"quest.cur"
+"prg.ani"
+"prg.ani"
+"cross.cur"
+"text.cur"
+"pen.cur"
+"err.cur"
+"goriz.cur"
+"vert.cur"
+"diag2.cur"
+"diag1.cur"
+"move.cur"
+"def.cur"
+"h2.cur"
+"cell.cur"
+"cell.cur"
+"h11.cur"
+"h12.ani"
+"zoom-in.cur"
+"zoom-out.cur"
+
+[Strings]
+CUR_DIR             = "Cursors\AltCursor"
+SCHEME_NAME         = "AltCursor"
+pointer             = "def.cur"
+help                = "quest.cur"
+work                = "prg.ani"
+busy                = "prg.ani"
+cross               = "cross.cur"
+text                = "text.cur"
+handwriting         = "pen.cur"
+unavailable         = "err.cur"
+vert                = "goriz.cur"
+horz                = "vert.cur"
+dgn1                = "diag2.cur"
+dgn2                = "diag1.cur"
+move                = "move.cur"
+alternate           = "def.cur"
+link                = "h2.cur"
+pin                 = "cell.cur"
+person              = "cell.cur"
+pan                 = "h11.cur"
+grabbing            = "h12.ani"
+zoom-in             = "zoom-in.cur"
+zoom-out            = "zoom-out.cur"
