@@ -1,0 +1,4 @@
+16 2 7 text-16.png
+24 3 11 text-24.png
+32 4 15 text-32.png
+48 6 23 text-48.png

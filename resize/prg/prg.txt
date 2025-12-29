@@ -1,0 +1,16 @@
+32 0 0 resize/prg/prg1-32.png 200
+32 0 0 resize/prg/prg2-32.png 200
+32 0 0 resize/prg/prg3-32.png 200
+32 0 0 resize/prg/prg4-32.png 200
+16 0 0 resize/prg/prg1-16.png 200
+16 0 0 resize/prg/prg2-16.png 200
+16 0 0 resize/prg/prg3-16.png 200
+16 0 0 resize/prg/prg4-16.png 200
+24 0 0 resize/prg/prg1-24.png 200
+24 0 0 resize/prg/prg2-24.png 200
+24 0 0 resize/prg/prg3-24.png 200
+24 0 0 resize/prg/prg4-24.png 200
+48 0 0 resize/prg/prg1-48.png 200
+48 0 0 resize/prg/prg2-48.png 200
+48 0 0 resize/prg/prg3-48.png 200
+48 0 0 resize/prg/prg4-48.png 200

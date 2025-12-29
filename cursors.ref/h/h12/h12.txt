@@ -1,0 +1,3 @@
+32 0 0 /ilya/images/altcursor.ref/cursors.ref/h/h12/h12_1.png 200
+32 0 0 /ilya/images/altcursor.ref/cursors.ref/h/h12/h12_2.png 200
+32 0 0 /ilya/images/altcursor.ref/cursors.ref/h/h12/h12_3.png 200

@@ -1,0 +1,12 @@
+32 0 0 resize/h12/h12_1-32.png 200
+32 0 0 resize/h12/h12_2-32.png 200
+32 0 0 resize/h12/h12_3-32.png 200
+24 0 0 resize/h12/h12_1-24.png 200
+24 0 0 resize/h12/h12_2-24.png 200
+24 0 0 resize/h12/h12_3-24.png 200
+16 0 0 resize/h12/h12_1-16.png 200
+16 0 0 resize/h12/h12_2-16.png 200
+16 0 0 resize/h12/h12_3-16.png 200
+48 0 0 resize/h12/h12_1-48.png 200
+48 0 0 resize/h12/h12_2-48.png 200
+48 0 0 resize/h12/h12_3-48.png 200

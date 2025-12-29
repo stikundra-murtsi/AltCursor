@@ -1,0 +1,4 @@
+32 0 0 prg1.png 200
+32 0 0 prg2.png 200
+32 0 0 prg3.png 200
+32 0 0 prg4.png 200

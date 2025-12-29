@@ -1,0 +1,4 @@
+16 7 7 cross-16.png
+24 11 11 cross-24.png
+32 15 15 cross-32.png
+48 23 23 cross-48.png
