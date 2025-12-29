@@ -2,21 +2,21 @@
 
 # Описание
 
-- def 	- базовый курсор.
-- quest 	- вопрос.
-- prg1	- выполнение.
-- prg2	- жесткое выполнение.
-- cross	- крестик.
-- goriz	- горизонтальное изменение размера.
-- vert	- вертикальное изменение размера.
-- move	- перемещение, ну и добавление.
-- text	- курсор редактирования текста.
-- err	   - курсор запрета.
-- h11	   - рука разжата.
-- h12	   - рука сжата.
-- h2	   - палец.
-- cell 	- курсор управления таблицами.
-- pen 	- карандаш.
+- def    - базовый курсор.
+- quest  - вопрос.
+- prg1   - выполнение.
+- prg2   - жесткое выполнение.
+- cross  - крестик.
+- goriz  - горизонтальное изменение размера.
+- vert   - вертикальное изменение размера.
+- move   - перемещение, ну и добавление.
+- text   - курсор редактирования текста.
+- err    - курсор запрет.
+- h11    - рука разжата.
+- h12    - рука сжата.
+- h2     - палец.
+- cell   - курсор управления таблицами.
+- pen    - карандаш.
 - zoom*  - zoom-in приближение, zoom-out отдаление.
 - diag1  - диагональное изменение размера.
 - diag2  - диагональное изменение размера.
@@ -39,8 +39,8 @@ d1 - d2
 - h11    - hand1
 - h12    - grabbing, grab
 - h2     - pointer, hand2
-- diag1  - fd_double_arrow, top_right_corner, bottom_left_corner, nwse-resize, ne-resize, sw-resize
-- diag2  - bd_double_arrow, top_left_corner, bottom_right_corner, nesw-resize, se-resize
 - cell   - cell
 - zoom*  - zoom-in zoom-out
-- pen	   - pencil
+- pen    - pencil
+- diag1  - fd_double_arrow, top_right_corner, bottom_left_corner, nwse-resize, ne-resize, sw-resize
+- diag2  - bd_double_arrow, top_left_corner, bottom_right_corner, nesw-resize, se-resize
