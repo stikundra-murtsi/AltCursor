@@ -2,3 +2,6 @@
 Name=AltCursor
 Comment=The minimalistic xcursors.
 Example=left_ptr
+
+[Xcursor]
+size=32
